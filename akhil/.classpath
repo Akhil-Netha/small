@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/uday_2/Downloads/Selenium Akhil/jar_files/bfg-library_2.13-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uday_2/Downloads/Selenium Akhil/jar_files/checker-qual-3.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uday_2/Downloads/Selenium Akhil/jar_files/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uday_2/Downloads/Selenium Akhil/jar_files/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uday_2/Downloads/Selenium Akhil/jar_files/error_prone_annotations-2.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uday_2/Downloads/Selenium Akhil/jar_files/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uday_2/Downloads/Selenium Akhil/jar_files/globs-for-java-0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uday_2/Downloads/Selenium Akhil/jar_files/guava-30.1-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uday_2/Downloads/Selenium Akhil/jar_files/httpclient-4.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uday_2/Downloads/Selenium Akhil/jar_files/httpcore-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uday_2/Downloads/Selenium Akhil/jar_files/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uday_2/Downloads/Selenium Akhil/jar_files/JavaEWAH-0.7.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uday_2/Downloads/Selenium Akhil/jar_files/jsch-0.1.53.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uday_2/Downloads/Selenium Akhil/jar_files/jsr305-2.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uday_2/Downloads/Selenium Akhil/jar_files/line-break-preserving-line-splitting_2.13-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uday_2/Downloads/Selenium Akhil/jar_files/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uday_2/Downloads/Selenium Akhil/jar_files/org.eclipse.jgit-4.4.1.201607150455-r.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uday_2/Downloads/Selenium Akhil/jar_files/scala-collection-plus_2.13-0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uday_2/Downloads/Selenium Akhil/jar_files/scala-git_2.13-4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uday_2/Downloads/Selenium Akhil/jar_files/scala-library-2.13.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uday_2/Downloads/Selenium Akhil/jar_files/scala-parallel-collections_2.13-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uday_2/Downloads/Selenium Akhil/jar_files/scala-textmatching_2.13-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uday_2/Downloads/Selenium Akhil/jar_files/slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uday_2/Downloads/Selenium Akhil/jar_files/slf4j-simple-1.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uday_2/Downloads/Selenium Akhil/selenium-java-3.141.59/client-combined-3.141.59.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
